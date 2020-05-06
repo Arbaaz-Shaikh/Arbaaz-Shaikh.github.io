@@ -763,16 +763,16 @@ ul.year li {
     display: block;
 }
 ul.year li:nth-child(2){
-	    margin-top: 142px;
+	    margin-top: 2px;
 }
 ul.year li:nth-child(3){
-	    margin-top: 146px;
+	    margin-top: 6px;
 }
 ul.year li:nth-child(4){
-	    margin-top: 155px;
+	    margin-top: 5px;
 }
 ul.year li:nth-child(5){
-	    margin-top: 145px;
+	    margin-top: 5px;
 }
 .timeline-badge.success i {
     font-size: 0.9em;
