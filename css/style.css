@@ -956,9 +956,8 @@ button.close{
 	border:none;
 	outline:none;
 }
-div#portfolioModal1,div#portfolioModal2,div#portfolioModal3,div#portfolioModal4,div#portfolioModal5,div#portfolioModal6,div#portfolioModal7,div#portfolioModal8,div#portfolioModal9,div#portfolioModal10 {
-   
-   background: rgba(0, 0, 0, 0.55);
+div#portfolioModal1, div#portfolioModal2, div#portfolioModal3, div#portfolioModal4, div#portfolioModal5, div#portfolioModal6, div#portfolioModal7, div#portfolioModal8, div#portfolioModal9, div#portfolioModal10, div#portfolioModal11, div#portfolioModal12, div#portfolioModal13, div#portfolioModal14, div#portfolioModal15, div#portfolioModal16, div#portfolioModal17 {
+    background: rgba(0, 0, 0, 0.55);
 }
 .team-gd img {
     width: 100%;
