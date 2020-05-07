@@ -892,7 +892,7 @@ ul.year li:nth-child(5){
 	padding: 0em 0 0em;
 }
 .resp-tabs-list {
-	text-align:left
+	text-align:center;
     list-style: none;
     margin: 3em 0 4em 0;
     padding: 0;
