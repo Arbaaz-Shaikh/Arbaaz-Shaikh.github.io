@@ -249,6 +249,9 @@ ul.social-icons{
 .social-icons li a.dott {
 background-position: 3px -94px;
 }
+.social-icons li a.git{
+    background-position: 3px -126px;
+    }
 .social-icons li a:hover::before {
     border-color: #00a78e;
 	    box-shadow: 0 8px 17px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
