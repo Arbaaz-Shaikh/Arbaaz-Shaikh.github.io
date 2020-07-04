@@ -246,11 +246,8 @@ ul.social-icons{
 .social-icons li a.in{
     background-position: 3px -62px;
 }
-.social-icons li a.git {
-    background-position: 3px -94px;
-}
 .social-icons li a.dott{
-    background-position: 3px -126px;
+    background-position: 3px -94px;
     }
 .social-icons li a:hover::before {
     border-color: #00a78e;
